@@ -1,0 +1,11 @@
+2020-11-18 11:53:22	4.6s	mad_ritchie	ERR	194d36e8286a881adf7b8a3f8b16b678	a3ebe185-07d5-4235-ba19-6edbdab1a802	nextflow run main.nf
+2020-11-18 11:54:37	-	high_heisenberg	-	194d36e8286a881adf7b8a3f8b16b678	4a3e2d77-30bf-4db0-9193-13bc8461a42f	nextflow run main.nf
+2020-11-18 11:57:24	4.6s	grave_shirley	ERR	194d36e8286a881adf7b8a3f8b16b678	0df3a302-6503-4c3c-8eb9-c2d6451b844f	nextflow run main.nf
+2020-11-18 11:59:59	5.3s	crazy_aryabhata	ERR	11d925d7553042aac1a2d3660279befc	f4167655-51ba-4e15-a6d3-0f07f49cb26e	nextflow run main.nf
+2020-11-18 12:01:38	4s	agitated_coulomb	ERR	c82202933f193b69ac17ef4031eab6b0	e0ba519c-41af-492d-b9e2-3bfff5bc2861	nextflow run main.nf
+2020-11-18 12:02:15	3.7s	infallible_spence	ERR	f7e3333ea448aea644df83c5bc7a21a4	66ed8295-039f-4b3e-a858-5b04c664e65a	nextflow run main.nf
+2020-11-18 12:04:19	3.7s	nice_avogadro	ERR	aab4825c5f039fa8e97d10afc19cee2f	d0349bf6-44ca-4adb-b23d-c5b096a59f29	nextflow run main.nf
+2020-11-18 12:10:50	3.5s	modest_wescoff	ERR	1c7cde88cbe738c4ff67023e2a426a4a	835d4349-2b30-47ae-b47e-a49f1652c269	nextflow run main.nf
+2020-11-18 13:44:35	6.1s	cheesy_dijkstra	ERR	374a54fb20531855698ef6e798433385	3a1327d7-43e9-4b0a-b860-57ad92fc637a	nextflow run main.nf
+2020-11-18 13:45:25	4.1s	evil_sinoussi	ERR	09e323f84a56de81f74574fff65acd24	34aca8ec-c4ab-4028-8308-7f3c73f5fe87	nextflow run main.nf
+2020-11-18 13:51:18	-	ridiculous_cray	-	d7d6c386296abeb688c27d78b703bade	2ad86312-705a-4202-bf42-d2e07613c2db	nextflow run main.nf

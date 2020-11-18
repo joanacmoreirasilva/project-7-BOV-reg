@@ -1,20 +1,20 @@
 #!/usr/bin/env nextflow
 
-params.file1  = 'file1.fq'
-params.file2 = 'file2.fq'
-genome = Channel.from(params.file1)
-ref_genome = Channel.from(params.file2)
+params.file1  = 'ref_genome.fasta'
+params.file2 = 'seq2.fasta'
+seq1 = Channel.fromPath(params.file1)
+seq2 = Channel.fromPath(params.file2)
 
 process alignment {
 
     input:
-    file f1 from genome
-    file f2 from ref_genome
+    file f1 from seq1
+    file f2 from seq2
 
     output:
     file 'alignment' into seq_alignment
 
     """
-    clustalw -PROFILE1=$f1 and -PROFILE2=$f2 -OUTFILE=alignment
+    clustalw -PROFILE1=$f1 -PROFILE2=$f2 -OUTFILE=alignment
     """
 }
