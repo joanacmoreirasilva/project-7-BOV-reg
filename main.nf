@@ -10,6 +10,6 @@ process alignment {
 
     script:
     """
-    /resfinder/run_resfinder.py -acq -ifq $f1
+    /resfinder/run_resfinder.py -acq -ifa $f1
     """
 }
